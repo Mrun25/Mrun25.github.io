@@ -1,0 +1,9 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Local preview artifacts
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
